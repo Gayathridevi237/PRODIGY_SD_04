@@ -41,7 +41,9 @@ The primary goal is to create a tool that is easy for users to interact with, al
 The program leverages algorithmic techniques to efficiently solve Sudoku puzzles.
 
 Backtracking Algorithm: The core of the Sudoku solver is the backtracking algorithm, a recursive approach that explores all possible configurations until it finds a valid solution or determines that none exists.
+
 Constraint Satisfaction: The algorithm ensures that the Sudoku rules are followed by checking constraints (no repeated numbers in rows, columns, or 3x3 subgrids) before placing a number in a cell.
+
 Recursive Problem Solving: Learning how to implement recursive functions to explore all possible solutions efficiently.
 
 3.Software Development Practices:
